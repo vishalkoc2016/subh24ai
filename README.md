@@ -146,7 +146,7 @@ I specialize in building **multi-agent architectures** that solve real-world pro
 ## 📈 GitHub Analytics
 
 <p align="center">
-  <img width="800" height="220" src="https://streak-stats.demolab.com?user=subh24ai&theme=radical&hide_border=true&border_radius=5&card_width=800">
+  <img width="800" height="220" src="https://streak-stats.demolab.com?user=vishalkoc2016&theme=radical&hide_border=true&border_radius=5&card_width=800">
 </p>
 
 <div align="center">
